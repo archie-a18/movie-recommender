@@ -8,15 +8,17 @@ The Movie Recommender App is a web application built using machine learning and 
  2.NLP
  3.Streamlit 
 
-## Contributing: 
-If you would like to contribute to Playtopia, you can follow these steps:
-
-* Fork the repository
-* Create a new branch: git checkout -b new-feature
-* Make your changes and commit them: git commit -m "Add new feature"
-* Push to the branch: git push origin new-feature
-* Create a pull request
-
 ## Live hosted
-  <a href="https://rbaao5zqkidzxdubx29tas.streamlit.app/">
+  https://rbaao5zqkidzxdubx29tas.streamlit.app/
+
+## Contributing: 
+  If you would like to contribute to Playtopia, you can follow these steps:
+
+  * Fork the repository
+  * Create a new branch: git checkout -b new-feature
+  * Make your changes and commit them: git commit -m "Add new feature"
+  * Push to the branch: git push origin new-feature
+  * Create a pull request
+
+
 
