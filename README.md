@@ -7,6 +7,7 @@ The Movie Recommender App is a web application built using machine learning and 
  1.Machine learning
  2.NLP
  3.Streamlit 
+ 4.Python
 
 ## Live hosted
   https://rbaao5zqkidzxdubx29tas.streamlit.app/
