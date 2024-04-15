@@ -4,10 +4,11 @@
 The Movie Recommender App is a web application built using machine learning and natural language processing (NLP) techniques to recommend top 5 movies based on user input. The app utilizes a backend machine learning model trained on a dataset of movies to generate personalized recommendations for users.
 
 ## Tech Stack
- 1.Machine learning
+ 1.Pyhton
  2.NLP
  3.Streamlit 
- 4.Python
+ 4.Machine learning
+
 
 ## Live hosted
   https://rbaao5zqkidzxdubx29tas.streamlit.app/
